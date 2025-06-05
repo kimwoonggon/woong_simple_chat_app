@@ -10,8 +10,8 @@ These are composed of start screen, chat rooms list, and friend search, chat roo
 you should see also what 
 I want to make it fully working thing  
 ## key function (MAKE IT SPA)  
-/*function showScreen(name) {
+`function showScreen(name) {
   Object.keys(screens).forEach(k => screens[k].classList.add("hide"));
   screens[name].classList.remove("hide");
   currentScreen = name;
-}*/
+}`
