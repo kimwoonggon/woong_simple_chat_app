@@ -8,4 +8,10 @@ These are chat app designs from figma . I want to fetch five designs, and make w
 full html5, html, js, css file should be made and images should be downloaded and after, 5 things should be connected 
 These are composed of start screen, chat rooms list, and friend search, chat room , and communitie screeens.  
 you should see also what 
-I want to make it fully working thing
+I want to make it fully working thing  
+## key function (MAKE IT SPA)  
+/*function showScreen(name) {
+  Object.keys(screens).forEach(k => screens[k].classList.add("hide"));
+  screens[name].classList.remove("hide");
+  currentScreen = name;
+}*/
